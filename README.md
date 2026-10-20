@@ -35,8 +35,8 @@ For detailed descriptions of all variables in our final dataset, please refer to
 ├── results/            # Saved predictions, models, etc
 ├── report/             # Midterm report and final presentation slides
 ├── src/                # Source codes and Jupyter Notebooks
-.gitignore
-.data1030project.yml
+├──.gitignore
 ├── LICENSE
-└── README.md
+├── README.md
+└── data1030project.yml
 
