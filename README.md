@@ -1,4 +1,4 @@
-# National Park Service (NPS) "Things To Do" Analysis & Modeling
+# National Park Service (NPS) "thingstodo" Analysis & Modeling
 
 ## Project Overview
 This project analyzes the U.S. National Park Service (NPS) "thingstodo" dataset. We collect park activity data using the official NPS API, conduct exploratory data analysis, and build machine learning models for predicting key activity characteristics.
