@@ -1,12 +1,12 @@
 # DATA1030-GroupProject: National Park Service (NPS) "Things To Do" Analysis & Modeling
 
 ## Project Overview
-This project analyzes the National Park Service (NPS) "Things To Do" dataset. We collect park activity data using the official NPS API, conduct exploratory data analysis, and build machine learning models for predicting key activity characteristics.
+This project analyzes the U.S. National Park Service (NPS) "Things To Do" dataset. We collect park activity data using the official NPS API, conduct exploratory data analysis, and build machine learning models for predicting key activity characteristics.
 
 ---
 
 ## Dataset
-The final dataset used for exploratory data analysis is saved as `eda_todo.csv`.
+The raw data directly pulled from the API is saved as `raw_todo.csv`, and the final cleaned dataset used for exploratory data analysis is saved as `eda_todo.csv`.
 
 For detailed descriptions of all variables in our final dataset, please refer to the [Data Description](data/data_description.md).
 
