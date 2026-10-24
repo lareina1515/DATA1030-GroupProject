@@ -1,4 +1,4 @@
-name: data1030project
+name: nps_project
 channels:
   - conda-forge
 dependencies:
